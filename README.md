@@ -1,7 +1,7 @@
 # NotDefteriWebAPI
 WebAPI, JQuery, Ajax ile not defteri uygulaması
 
-*Türkçe kaynaklara destek için, arayüz ve kodları Türkçe olarak hazırladım..*
+*Türkçe kaynaklara destek için, arayüzü ve kodları Türkçe olarak hazırladım..*
 
 ![NotDefteriUI](https://user-images.githubusercontent.com/17917793/173163612-9754dcda-d2cf-494a-9d28-ee4d24b93707.jpg)
 
